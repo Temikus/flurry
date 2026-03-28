@@ -1,6 +1,6 @@
 # Flurry
 
-[![CI](https://github.com/temikus/randomart-snowflake/actions/workflows/ci.yml/badge.svg)](https://github.com/temikus/randomart-snowflake/actions/workflows/ci.yml)
+[![CI](https://github.com/temikus/flurry/actions/workflows/ci.yml/badge.svg)](https://github.com/temikus/flurry/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/flurry)](https://www.npmjs.com/package/flurry)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
@@ -8,7 +8,7 @@ Generate unique snowflake SVGs from cryptographic strings — like SSH randomart
 
 Every input produces a deterministic, visually distinct snowflake with true 6-fold symmetry (D6 dihedral group), just like real ice crystals. Same input always gives the same snowflake. Different inputs give different snowflakes.
 
-**[Live Demo](https://temikus.github.io/randomart-snowflake/)**
+**[Live Demo](https://temikus.github.io/flurry/)**
 
 ## Install
 
