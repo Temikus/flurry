@@ -42,7 +42,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/temikus/flurry.git"
+    "url": "git+https://github.com/Temikus/flurry.git"
   },
   "devDependencies": {
     "@types/node": "^25.5.0",
