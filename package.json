@@ -1,6 +1,6 @@
 {
   "name": "@temikus/flurry",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Generate unique snowflake SVGs from cryptographic strings — like SSH randomart, but prettier",
   "type": "module",
   "main": "./dist/flurry.cjs",
