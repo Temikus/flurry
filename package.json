@@ -46,9 +46,10 @@
   },
   "devDependencies": {
     "@types/node": "^25.5.0",
-    "typescript": "^5.7.0",
+    "@typescript/typescript6": "^6.0.2",
+    "typescript": "^7.0.2",
     "vite": "^6.0.0",
-    "vite-plugin-dts": "^4.3.0",
+    "vite-plugin-dts": "^5.1.1",
     "vitest": "^3.0.0"
   }
 }
